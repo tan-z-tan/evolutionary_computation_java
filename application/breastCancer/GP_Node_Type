@@ -1,0 +1,24 @@
+GP Nodes {
+// name, absolute class path, number of arguments
+X1, application.breastCancer.symbol.Variable1, 0
+X2, application.breastCancer.symbol.Variable2, 0
+X3, application.breastCancer.symbol.Variable3, 0
+X4, application.breastCancer.symbol.Variable4, 0
+X5, application.breastCancer.symbol.Variable5, 0
+X6, application.breastCancer.symbol.Variable6, 0
+X7, application.breastCancer.symbol.Variable7, 0
+X8, application.breastCancer.symbol.Variable8, 0
+X9, application.breastCancer.symbol.Variable9, 0
+PLUS, application.breastCancer.symbol.Plus, 2
+SUB, application.breastCancer.symbol.Subtraction, 2
+MULT, application.breastCancer.symbol.Multiplication, 2
+DIV, application.breastCancer.symbol.Division, 2
+RAND, application.breastCancer.symbol.Random, 0
+//ONE, application.breastCancer.symbol.One, 0
+//IFLT, application.breastCancer.symbol.IfLessThen, 4
+IFMT, application.breastCancer.symbol.IfMinusThen, 3
+//SIN, application.breastCancer.symbol.Sin, 1
+//COS, application.breastCancer.symbol.Cos, 1
+LOG, application.breastCancer.symbol.Log, 1
+EXP, application.breastCancer.symbol.Exp, 1
+}

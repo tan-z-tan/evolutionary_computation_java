@@ -1,0 +1,15 @@
+GP Nodes {
+// name, absolute class path, number of arguments
+X, application.regression.symbol.Variable, 0
+PLUS, application.regression.symbol.Plus, 2
+SUB, application.regression.symbol.Subtraction, 2
+MULT, application.regression.symbol.Multiplication, 2
+DIV, application.regression.symbol.Division, 2
+//RAND, application.regression.Random, 0
+//ONE, application.regression.One, 0
+//IFLT, application.regression.IfLessThen, 4
+SIN, application.regression.symbol.Sin, 1
+COS, application.regression.symbol.Cos, 1
+LOG, application.regression.symbol.Log, 1
+EXP, application.regression.symbol.Exp, 1
+}

@@ -1,0 +1,12 @@
+method = SGP
+level = 3
+maxDepth = 10
+populationSize = 100
+crossoverRatio = 0.8
+mutationRatio = 0.2
+repetitionSize = 100
+selector = tournament
+tournamentSize = 4
+
+porteAlpha = 0.8
+porteBeta = 0.0001
