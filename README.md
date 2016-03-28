@@ -20,4 +20,4 @@ javac -cp commons-math3-3.0.jar:. application/wallFollowing/ProblemDefinition.ja
 java application/wallFollowing/ProblemDefinition
 ```
 
-https://raw.github.com/wiki/tan-z-tan/evolutionary_computation_java/sample.png
+https://github.com/tan-z-tan/evolutionary_computation_java/blob/master/sample.png
